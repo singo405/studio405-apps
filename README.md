@@ -1,6 +1,6 @@
 # STUDiO405 Applications
 
-GitHub Pages向けの静的サイト。index.htmlは初回リリース順の5アプリ一覧、remaining/はRemaining専用紹介ページ。
+GitHub Pages向けの静的サイト。index.htmlは初回リリース順のアプリ一覧（日本語5件・英語4件。「帰りますよ？」は日本語のみ）、remaining/はRemaining専用紹介ページ。
 
 assets/site.cssとassets/language.jsを共有（国内専用の「帰りますよ？」紹介ページは日本語固定）。日本語／英語はブラウザーの言語で初期選択、手動切替可能。?lang=jaまたは?lang=enでリンク先にも言語を引き継ぐ。
 
