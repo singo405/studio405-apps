@@ -1,9 +1,19 @@
-# Handworks 紹介ページ — 仮版
+# Handworks 紹介ページ
 
-確認日: 2026-10-12
-情報源: https://singo405.github.io/studio405-apps/ の公開中の紹介内容
-ストア: https://apps.apple.com/app/handworks-creative-portfolio/id6765852735
+更新日: 2026-11-01
 
-現在の公開内容を短く編集して日英の専用ページを作成。アプリ本体のソースや実画面での機能照合は未実施。画像は既存アイコンのみで、新しい画面画像や動画は追加していない。
+既存ストア用画像をWeb向けのJPEGへ縮小して追加。元画像は変更していない。
+紹介文の機能範囲は従来のまま。現行アプリとの差分・ストア登録状態は未確認。
 
-後日、このアプリのプロジェクトで公開バージョン・対応端末・機能・画面を確認し、正式な紹介文と素材へ差し替える。公開サイトにない機能や価格、データの扱いを推測して追加しない。
+## 画像の出典
+
+元ディレクトリ: /Users/STUDiO405/Library/CloudStorage/Dropbox/Dev/Design/Apps/
+
+- ja: Handworks/AppStoreConnect/Handworks01_ja.png
+- ja: Handworks/AppStoreConnect/Handworks02_ja.png
+- ja: Handworks/AppStoreConnect/Handworks03_ja.png
+- en: Handworks/AppStoreConnect/Handworks01_en.png
+- en: Handworks/AppStoreConnect/Handworks02_en.png
+- en: Handworks/AppStoreConnect/Handworks03_en.png
+
+既存の言語切替に合わせて画像と代替テキストを切替。
