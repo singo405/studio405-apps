@@ -36,3 +36,13 @@ Web用は `images/gcamera/store-01〜03-{ja,en}.jpg` へ660×1434px、JPEG品質
 
 `python3 scripts/create-previews.py` → `preview/gcamera.html`。
 CSS、JavaScript、画像を内包し、単体保存したファイルでも日英切替できる。公開サイトへの反映は未実施。
+
+## 次回のストア更新で変更するURL
+
+2026-11-14記録。App Store Connectで、各言語のサポートURLとマーケティングURLを更新する。
+
+- [ ] 日本語のサポートURLを https://singo405.github.io/studio405-apps/support/?lang=ja に変更
+- [ ] 英語のサポートURLを https://singo405.github.io/studio405-apps/support/?lang=en に変更
+- [ ] 日本語のマーケティングURLを https://singo405.github.io/studio405-apps/gcamera/?lang=ja に変更
+- [ ] 英語のマーケティングURLを https://singo405.github.io/studio405-apps/gcamera/?lang=en に変更
+- [ ] 保存後、各URLと言語別の表示を確認

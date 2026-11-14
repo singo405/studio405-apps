@@ -15,3 +15,13 @@
 
 ## 更新時の確認
 公開済みバージョンで機能・画面・対応端末を確認し、紹介文と画像を更新する。コードだけで不明な動作は実画面でも確認。価格・全データの保存範囲など、この資料で未確認の仕様を推測して紹介文へ追加しない。
+
+## 次回のストア更新で変更するURL
+
+2026-11-14記録。App Store Connectで、各言語のサポートURLとマーケティングURLを更新する。
+
+- [ ] 日本語のサポートURLを https://singo405.github.io/studio405-apps/support/?lang=ja に変更
+- [ ] 英語のサポートURLを https://singo405.github.io/studio405-apps/support/?lang=en に変更
+- [ ] 日本語のマーケティングURLを https://singo405.github.io/studio405-apps/remaining/?lang=ja に変更
+- [ ] 英語のマーケティングURLを https://singo405.github.io/studio405-apps/remaining/?lang=en に変更
+- [ ] 保存後、各URLと言語別の表示を確認

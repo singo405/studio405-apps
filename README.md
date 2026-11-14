@@ -22,3 +22,11 @@ App Store Connect登録用（公開反映後に変更）:
 Handworksのみ、更新判定用のFirebase Remote Configについても記載。
 
 単体HTMLでの確認: `python3 scripts/create-previews.py` で preview/support.html と preview/privacy.html を生成。CSS・JavaScriptを内包し、HTMLだけを保存してSafariで開いても言語切替が可能。変更後は再生成する。preview/ はGit管理対象外。
+
+## 次回のストア更新で忘れずに変更する項目
+
+Gcamera・Remaining・Handworksは、App Store ConnectのサポートURLとマーケティングURLを日本語・英語ともに新サイトへ変更する。2026-11-14時点では未完了として記録。各アプリの確認用チェックリストは次の資料にある。
+
+- [Gcamera](docs/apps/gcamera.md#次回のストア更新で変更するurl)
+- [Remaining](docs/apps/remaining.md#次回のストア更新で変更するurl)
+- [Handworks](docs/apps/handworks.md#次回のストア更新で変更するurl)

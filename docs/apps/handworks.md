@@ -17,3 +17,13 @@
 - en: Handworks/AppStoreConnect/Handworks03_en.png
 
 既存の言語切替に合わせて画像と代替テキストを切替。
+
+## 次回のストア更新で変更するURL
+
+2026-11-14記録。App Store Connectで、各言語のサポートURLとマーケティングURLを更新する。
+
+- [ ] 日本語のサポートURLを https://singo405.github.io/studio405-apps/support/?lang=ja に変更
+- [ ] 英語のサポートURLを https://singo405.github.io/studio405-apps/support/?lang=en に変更
+- [ ] 日本語のマーケティングURLを https://singo405.github.io/studio405-apps/handworks/?lang=ja に変更
+- [ ] 英語のマーケティングURLを https://singo405.github.io/studio405-apps/handworks/?lang=en に変更
+- [ ] 保存後、各URLと言語別の表示を確認
