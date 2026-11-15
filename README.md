@@ -25,7 +25,7 @@ Handworksのみ、更新判定用のFirebase Remote Configについても記載�
 
 ## 次回のストア更新で忘れずに変更する項目
 
-Gcamera・Remaining・Handworksは、App Store ConnectのサポートURLとマーケティングURLを日本語・英語ともに新サイトへ変更する。2026-11-14時点では未完了として記録。各アプリの確認用チェックリストは次の資料にある。
+Gcamera・Remainingは、App Store ConnectのサポートURLとマーケティングURLを日本語・英語ともに新サイトへ変更する（2026-11-14時点で未完了）。Handworksは2026-11-15に日英の登録値・保存済み状態を確認済み。各アプリのチェックリストは次の資料にある。
 
 - [Gcamera](docs/apps/gcamera.md#次回のストア更新で変更するurl)
 - [Remaining](docs/apps/remaining.md#次回のストア更新で変更するurl)
